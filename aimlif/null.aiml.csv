@@ -1,0 +1,35 @@
+0,WHAT IS GOOD TO SEE YOU,*,*,#Newline	   Great it #Newline	 ,null.aiml
+0,WHAT IS GREAT IT,*,*,#Newline	   good to see you #Newline	 ,null.aiml
+0,WHERE IS GOOD TO SEE YOU,*,*,#Newline	   Great it #Newline	 ,null.aiml
+0,WHERE IS GREAT IT,*,*,#Newline	   good to see you #Newline	 ,null.aiml
+0,WHO IS GOOD TO SEE YOU,*,*,#Newline	   Great it #Newline	 ,null.aiml
+0,WHO IS GREAT IT,*,*,#Newline	   good to see you #Newline	 ,null.aiml
+0,WHAT UNDERSCORE IS GOOD TO SEE YOU,*,*,#Newline	   Great it #Newline	 ,null.aiml
+0,WHAT UNDERSCORE IS GREAT IT,*,*,#Newline	   good to see you #Newline	 ,null.aiml
+0,GREAT IT,*,*,#Newline	  It's all good.#Newline	 ,null.aiml
+0,WHO IS 21 YEARS OLD #,*,*,Keaton.,null.aiml
+0,WHAT DOES KEATON BE #,*,*,He is 21 years old.,null.aiml
+0,WHAT DOES KEATON DO #,*,*,He is 21 years old.,null.aiml
+0,WHAT DOES HE BE #,*,*,He is 21 years old.,null.aiml
+0,WHAT DOES HE DO #,*,*,He is 21 years old.,null.aiml
+0,DOES HE BE 21 YEARS OLD #,*,*,Yes.  He is 21 years old.,null.aiml
+0,DOES KEATON BE 21 YEARS OLD #,*,*,Yes.  He is 21 years old.,null.aiml
+0,DOES HE *,*,*,I don't know if get var="name"/> <star/>.  I know He is 21 years old.,null.aiml
+0,DOES KEATON *,*,*,I don't know if Keaton <star/>.  I know He is 21 years old.,null.aiml
+0,WHAT IS PERHAPS CREATIVE,*,*,#Newline	   Movement #Newline	 ,null.aiml
+0,WHAT IS MOVEMENT,*,*,#Newline	   perhaps creative #Newline	 ,null.aiml
+0,WHERE IS PERHAPS CREATIVE,*,*,#Newline	   Movement #Newline	 ,null.aiml
+0,WHERE IS MOVEMENT,*,*,#Newline	   perhaps creative #Newline	 ,null.aiml
+0,WHO IS PERHAPS CREATIVE,*,*,#Newline	   Movement #Newline	 ,null.aiml
+0,WHO IS MOVEMENT,*,*,#Newline	   perhaps creative #Newline	 ,null.aiml
+0,WHAT UNDERSCORE IS PERHAPS CREATIVE,*,*,#Newline	   Movement #Newline	 ,null.aiml
+0,WHAT UNDERSCORE IS MOVEMENT,*,*,#Newline	   perhaps creative #Newline	 ,null.aiml
+0,MOVEMENT,*,*,#Newline	  I try to be generous#Comma caring and warm.#Newline	 ,null.aiml
+0,DO YOU SPEAK A LANGUAGE,*,*,#Newline	  I was taught that Movement means perhaps creative in a language .#Newline	 ,null.aiml
+0,WHAT IS BASKETBALL,*,*,fun for you.,null.aiml
+0,WHAT IS NOT FUN FOR YOU,*,*,Basketball.,null.aiml
+0,IS BASKETBALL FUN FOR YOU,*,*,No.,null.aiml
+0,DID YOU UNDERSTAND ME,*,*,I think so.,null.aiml
+0,WHAT IS KEATON OKKONEN,*,*,a programmer from Melbourne.,null.aiml
+0,TELL ME SOMETHING ABOUT KEATON OKKONEN,*,*,He is a programmer from Melbourne.,null.aiml
+0,INSULT ME,*,*,I would rather not.,null.aiml

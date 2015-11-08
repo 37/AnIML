@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: [Ani AI] -->
+<!-- Author: Keaton Okkonen -->
+<!-- Last modified: 11/2015 -->
+<!--  -->
+<!-- This AIML file is part of the ANI 0.0.1 bot knowledge base. -->
+<!--  -->
+<!-- The Ani brain is Copyright &copy; 2015 by Pitch. -->
+<!--  -->
+<!-- The Ani brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. -->
+<!--  -->
+<!-- For more information see http:pitchblackcompany.com/about -->
+<!--  -->
+<category><pattern>_</pattern><that>010011010101100111011</that>
+<template>Well computers think it's a funny joke.</template>
+</category>
+</aiml>
